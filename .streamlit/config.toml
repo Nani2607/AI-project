@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+primaryColor = "#FFC1CC" # Rosa pastel para botones e interactividad
+backgroundColor = "#FFF0F5" # Fondo rosa lavanda muy claro
+secondaryBackgroundColor = "#FFDBE5" # Fondo de la barra lateral rosa pálido
+textColor = "#4B0082" # Texto índigo oscuro para buen contraste
+font = "sans serif"
