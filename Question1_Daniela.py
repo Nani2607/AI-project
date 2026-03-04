@@ -78,7 +78,6 @@ def get_options():
 def get_graphviz_data():
     """
     Generates DOT code for visual representation in Streamlit.
-    Formatted with pink colors to match your 'fancy' theme.
     """
     dot_code = 'digraph G {\n'
     dot_code += '  rankdir=LR;\n'  # Left to Right direction

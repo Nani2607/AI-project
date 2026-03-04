@@ -29,7 +29,6 @@ def find_best_case(action_val, exploration_val, difficulty_val):
     # Return the dictionary for Streamlit to display
     return matched_case
 
-# Keeping the print logic inside this block so you can still run it as a standalone script
 if __name__ == "__main__":
     test_result = find_best_case(9, 2, 6)
     print(f"Standalone Test: {test_result['name']}")
